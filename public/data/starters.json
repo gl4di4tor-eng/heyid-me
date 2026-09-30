@@ -1,0 +1,78 @@
+{
+ "en": {
+  "light": [
+   "What's the most ordinary thing in your day that a visitor would find strange?",
+   "What are you eating or drinking right now?",
+   "What's the weather like where you are, and how do you feel about it?",
+   "What's a song you've had on repeat lately?",
+   "What does a normal Sunday look like where you live?",
+   "What's one word in your language I should learn first?",
+   "What's the best snack from your country?",
+   "What time is it there, and are you a morning or a night person?",
+   "What's a show or film from your country you'd recommend?",
+   "What was the last thing that made you laugh?"
+  ],
+  "deep": [
+   "What's something you changed your mind about in the last few years?",
+   "What did you want to be when you were ten?",
+   "What's a small thing that makes a day feel good for you?",
+   "Which place have you never been to but feel connected to?",
+   "What's something people often misunderstand about your country?",
+   "Who taught you the most about how to treat people?",
+   "What do you wish more people asked you about?",
+   "What's a tradition in your family that you'd keep forever?",
+   "When do you feel most like yourself?",
+   "What are you looking forward to this month?"
+  ],
+  "fun": [
+   "If you could teleport anywhere for lunch today, where would you go?",
+   "What's a completely useless talent you have?",
+   "Pineapple on pizza: crime or genius?",
+   "What's the strangest food you've ever tried?",
+   "Which animal would make the worst roommate?",
+   "If you could instantly speak one more language, which one?",
+   "What's a rule in your country that would surprise a visitor?",
+   "What would be the title of your autobiography?",
+   "What's your go-to karaoke song?",
+   "What's the most useful phrase in your language for a tourist?"
+  ]
+ },
+ "pl": {
+  "light": [
+   "Co w Twoim zwykłym dniu ktoś z zagranicy uznałby za dziwne?",
+   "Co teraz jesz albo pijesz?",
+   "Jaka jest u Ciebie pogoda i co o niej myślisz?",
+   "Jaka piosenka leci Ci ostatnio w kółko?",
+   "Jak wygląda zwykła niedziela tam, gdzie mieszkasz?",
+   "Jakiego jednego słowa z Twojego języka warto nauczyć się najpierw?",
+   "Jaka jest najlepsza przekąska z Twojego kraju?",
+   "Która jest u Ciebie godzina? Wolisz poranki czy noce?",
+   "Jaki serial albo film z Twojego kraju polecasz?",
+   "Co ostatnio Cię rozśmieszyło?"
+  ],
+  "deep": [
+   "W jakiej sprawie zmieniło się Twoje zdanie w ostatnich latach?",
+   "Kim chciałeś/chciałaś zostać, gdy miałeś/miałaś dziesięć lat?",
+   "Jaki drobiazg sprawia, że dzień jest dla Ciebie dobry?",
+   "Jakie miejsce, w którym nigdy Cię nie było, wydaje Ci się bliskie?",
+   "Czego ludzie najczęściej nie rozumieją o Twoim kraju?",
+   "Kto nauczył Cię najwięcej o tym, jak traktować ludzi?",
+   "O co chciałbyś/chciałabyś, żeby ludzie pytali Cię częściej?",
+   "Jaką rodzinną tradycję zachowałbyś/zachowałabyś na zawsze?",
+   "Kiedy czujesz się najbardziej sobą?",
+   "Na co czekasz w tym miesiącu?"
+  ],
+  "fun": [
+   "Gdybyś mógł/mogła teleportować się na dzisiejszy obiad, dokąd byś poszedł/poszła?",
+   "Jaki zupełnie bezużyteczny talent posiadasz?",
+   "Ananas na pizzy: zbrodnia czy geniusz?",
+   "Jakie jest najdziwniejsze jedzenie, jakiego próbowałeś/próbowałaś?",
+   "Które zwierzę byłoby najgorszym współlokatorem?",
+   "Jakiego jeszcze języka chciał(a)byś nauczyć się w jednej chwili?",
+   "Jaka zasada w Twoim kraju zaskoczyłaby turystę?",
+   "Jaki tytuł miałaby Twoja autobiografia?",
+   "Jaka jest Twoja piosenka do karaoke?",
+   "Jakie zdanie z Twojego języka jest najprzydatniejsze dla turysty?"
+  ]
+ }
+}

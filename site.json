@@ -1,0 +1,22 @@
+{
+  "name": "HEYID",
+  "url": "https://heyid.me",
+  "tagline": "Talk to the whole planet",
+  "description": "Conversation starters, language guides and small discoveries for people who like talking to people from other countries.",
+  "author": "Paweł",
+  "email": "gl4di4tor@interia.pl",
+  "playUrl": "https://play.google.com/store/apps/details?id=com.heyid.hey",
+  "appPrivacyUrl": "https://gl4di4tor-eng.github.io/heyid-privacy-policy",
+  "productSite": "https://heyid.online",
+  "adsense": {
+    "client": "",
+    "slots": { "article": "", "list": "" }
+  },
+  "topics": {
+    "talk": "Conversation",
+    "languages": "Languages",
+    "world": "World",
+    "safety": "Staying safe",
+    "heyid": "HEYID"
+  }
+}
