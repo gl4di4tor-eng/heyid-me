@@ -1,7 +1,7 @@
 ---
 title: Best Time to Chat With Someone on Another Continent
 description: Time zones make chatting with friends abroad tricky. Here's how to find a good time, with real examples between Europe, Asia and the Americas.
-date: 2026-10-03
+date: 2026-09-22
 topic: world
 cover: What time is it there?
 mood: [start]

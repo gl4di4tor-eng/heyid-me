@@ -1,7 +1,7 @@
 ---
 title: What Is HEYID and How Does It Work?
 description: HEYID is a chat app that translates messages as you talk. Here's what it does, what's free, what costs money and who it's for.
-date: 2026-10-04
+date: 2026-09-24
 topic: heyid
 cover: HEYID
 mood: [start]

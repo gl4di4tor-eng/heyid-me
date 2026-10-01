@@ -1,7 +1,7 @@
 ---
 title: 20 Ways to Say Hello in Different Languages
 description: Twenty ways to say hello in different languages, with pronunciation tips and notes on when each greeting fits. Start your next chat with one.
-date: 2026-10-02
+date: 2026-09-17
 topic: languages
 cover: Hola
 mood: [start]

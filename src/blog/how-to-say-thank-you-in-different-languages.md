@@ -1,7 +1,7 @@
 ---
 title: How to Say Thank You in 20 Languages
 description: Learn how to say thank you in 20 languages, with pronunciation tips and small notes on politeness, from Spanish gracias to Japanese arigatō.
-date: 2026-10-05
+date: 2026-09-20
 topic: languages
 cover: Thanks!
 mood: [start]
