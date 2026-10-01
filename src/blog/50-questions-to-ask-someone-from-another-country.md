@@ -117,7 +117,7 @@ If you are chatting through a translation tool, a few small choices help a lot. 
 
 If a reply looks rude or odd, assume the translation is at fault before you assume the person is. Ask again in simpler words. Most misunderstandings in translated chats are technical, not personal.
 
-{{todo: Add one short personal story here, for example a question that worked unusually well in a real HEYID chat and what happened next. Two or three sentences is enough. This is the part readers and Google trust most.}}
+A note from us: HEYID is a new app, and we're still collecting stories from real conversations. If one of these questions worked well for you, [tell us about it](/contact/) and we may share it here.
 
 ## Keep it going
 
