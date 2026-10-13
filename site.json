@@ -9,8 +9,11 @@
   "appPrivacyUrl": "https://gl4di4tor-eng.github.io/heyid-privacy-policy",
   "productSite": "https://heyid.online",
   "adsense": {
-    "client": "",
-    "slots": { "article": "", "list": "" }
+    "client": "ca-pub-2094722135547757",
+    "slots": {
+      "article": "",
+      "list": ""
+    }
   },
   "topics": {
     "talk": "Conversation",
